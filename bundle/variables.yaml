@@ -1,0 +1,4 @@
+variables:
+- team: ajdd-cloudbees-ci-workshop
+- admin-user: ajddsolidaris-admin
+- manager-user: ajddsolidaris
